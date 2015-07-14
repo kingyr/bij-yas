@@ -2,7 +2,7 @@
 body {
   left: 0;
   margin: 0;
-  overflow: hidden;
+  /*overflow: hidden;*/
   position: relative;
 }
 
@@ -20,7 +20,7 @@ body {
 .jumbotron {
   background-image: url('http://diveintampabay.com/wp-content/uploads/2012/07/charity2.jpg');
   height: 100%;
-  -webkit-background-size: cover;
+  webkit-background-size: cover;
      -moz-background-size: cover;
        -o-background-size: cover;
           background-size: cover;
@@ -69,4 +69,28 @@ body {
 
 .icon-menu i {
   margin-right: 5px;
+}
+
+th {
+  font-size:50px
+}
+
+table {
+  background-image: url('http://www.crvdmedia.com/crvd/wp-content/uploads/2013/02/Wood_Background.jpg');
+  margin:auto;
+  color:gold;
+}
+
+strong {
+  font-family:cursive;
+  font-size:75px;
+}
+
+td {
+  text-align:center;
+}
+img {
+    /*Use this image for later
+    <img src="http://jgblackbook.com/wp-content/uploads/2014/08/charity-water-feature.jpg" />
+    */
 }
