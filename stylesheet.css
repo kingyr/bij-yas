@@ -8,7 +8,7 @@ body {
 
 /* Initial menu */
 .menu {
-  background: #202024 url('http://s3.amazonaws.com/codecademy-content/courses/ltp2/img/uber/black-thread.png') repeat left top;
+  background: #202024 url('http://www.crvdmedia.com/crvd/wp-content/uploads/2013/02/Wood_Background.jpg') repeat left top;
   left: -285px;  /* start off behind the scenes */
   height: 100%;
   position: fixed;
@@ -19,11 +19,10 @@ body {
 
 .jumbotron {
   background-image: url('http://diveintampabay.com/wp-content/uploads/2012/07/charity2.jpg');
-  height: 100%;
   webkit-background-size: cover;
-     -moz-background-size: cover;
-       -o-background-size: cover;
-          background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
 }
 
 .menu ul {
@@ -90,7 +89,7 @@ td {
   text-align:center;
 }
 img {
-    /*Use this image for later
-    <img src="http://jgblackbook.com/wp-content/uploads/2014/08/charity-water-feature.jpg" />
-    */
+  /*Use this image for later
+  <img src="http://jgblackbook.com/wp-content/uploads/2014/08/charity-water-feature.jpg" />
+  */
 }
